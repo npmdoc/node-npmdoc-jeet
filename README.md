@@ -1,9 +1,14 @@
-# api documentation for  [jeet (v7.1.0)](https://jeet.gs)  [![npm package](https://img.shields.io/npm/v/npmdoc-jeet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jeet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jeet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jeet)
+# npmdoc-jeet
+
+#### api documentation for  [jeet (v7.1.0)](https://jeet.gs)  [![npm package](https://img.shields.io/npm/v/npmdoc-jeet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jeet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jeet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jeet)
+
 #### A simple Sass and Stylus grid system. Built for humans.
 
-[![NPM](https://nodei.co/npm/jeet.png?downloads=true)](https://www.npmjs.com/package/jeet)
+[![NPM](https://nodei.co/npm/jeet.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jeet)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-jeet/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-jeet_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-jeet/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-jeet/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Cory Simmons",
-        "email": "cory@launchboxhq.com"
+        "name": "Cory Simmons"
     },
     "bugs": {
         "url": "https://github.com/mojotech/jeet/issues"
@@ -26,12 +30,10 @@
     "contributors": [
         {
             "name": "Jake Cleary",
-            "email": "shout@jakecleary.net",
             "url": "http://jakecleary.net"
         },
         {
             "name": "Andreas Nedbal",
-            "email": "andy@pixelde.su",
             "url": "http://pixelde.su"
         },
         {
@@ -60,21 +62,17 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "braxtonfair",
-            "email": "braxtonfair@hotmail.com"
+            "name": "braxtonfair"
         },
         {
-            "name": "corysimmons",
-            "email": "cory@launchboxhq.com"
+            "name": "corysimmons"
         },
         {
-            "name": "pixeldesu",
-            "email": "andy@pixelde.su"
+            "name": "pixeldesu"
         }
     ],
     "name": "jeet",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/mojotech/jeet.git"
@@ -85,19 +83,6 @@
     "version": "7.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module jeet](#apidoc.module.jeet)
-1.  string <span class="apidocSignatureSpan">jeet.</span>libname
-1.  string <span class="apidocSignatureSpan">jeet.</span>path
-1.  string <span class="apidocSignatureSpan">jeet.</span>version
-
-
-
-# <a name="apidoc.module.jeet"></a>[module jeet](#apidoc.module.jeet)
 
 
 
