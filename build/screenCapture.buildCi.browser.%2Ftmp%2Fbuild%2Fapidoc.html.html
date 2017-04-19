@@ -56,6 +56,15 @@
 
         <li>
 
+            <a class="apidocElementLiA" href="#apidoc.element.jeet.jeet">
+            function <span class="apidocSignatureSpan"></span>jeet
+            <span class="apidocSignatureSpan">(opts)</span>
+            </a>
+
+        </li>
+
+        <li>
+
             <span class="apidocSignatureSpan">string <span class="apidocSignatureSpan">jeet.</span>libname</span>
 
         </li>
@@ -78,6 +87,29 @@
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.jeet" id="apidoc.module.jeet">module jeet</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.jeet.jeet" id="apidoc.element.jeet.jeet">
+        function <span class="apidocSignatureSpan"></span>jeet
+        <span class="apidocSignatureSpan">(opts)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">jeet = function (opts) {
+  var implicit = (opts &amp;&amp; opts.implicit == false) ? false : true;
+
+  return function (style) {
+    style.include(__dirname);
+
+    if (implicit) {
+      style.import(jeetPath);
+    }
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 
 
