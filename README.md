@@ -80,7 +80,8 @@
     "scripts": {
         "test:node": "node test/node-stylus/node"
     },
-    "version": "7.1.0"
+    "version": "7.1.0",
+    "bin": {}
 }
 ```
 
