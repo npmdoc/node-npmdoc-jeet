@@ -1,0 +1,240 @@
+<svg height="2334" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2334" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+
+<tspan x="10" y="42">[MODE_BUILD=buildApp] - 2018-04-13T12:22:35.686Z - npm-testing /home/travis/build/npmdoc/node-np\</tspan>
+<tspan x="10" y="58">mdoc-jeet</tspan>
+
+<tspan x="10" y="74"></tspan>
+
+<tspan x="10" y="90"></tspan>
+
+<tspan x="10" y="106">buildApp - merged test-report from file /home/travis/build/npmdoc/node-npmdoc-jeet/tmp/build/tes\</tspan>
+<tspan x="10" y="122">t-report.json</tspan>
+
+<tspan x="10" y="138">&gt; server listening on http-port 59095</tspan>
+
+<tspan x="10" y="154">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/package.\</tspan>
+<tspan x="10" y="170">json</tspan>
+
+<tspan x="10" y="186">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.editorc\</tspan>
+<tspan x="10" y="202">onfig</tspan>
+
+<tspan x="10" y="218">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.gitigno\</tspan>
+<tspan x="10" y="234">re</tspan>
+
+<tspan x="10" y="250">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/index.js</tspan>
+
+<tspan x="10" y="266">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/jeet.scs\</tspan>
+<tspan x="10" y="282">s</tspan>
+
+<tspan x="10" y="298">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/jeet.sty\</tspan>
+<tspan x="10" y="314">l</tspan>
+
+<tspan x="10" y="330">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/LICENSE</tspan>
+
+<tspan x="10" y="346">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/package.\</tspan>
+<tspan x="10" y="362">json</tspan>
+
+<tspan x="10" y="378">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/README.m\</tspan>
+<tspan x="10" y="394">d</tspan>
+
+<tspan x="10" y="410">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.travis.\</tspan>
+<tspan x="10" y="426">yml</tspan>
+
+<tspan x="10" y="442">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/api\</tspan>
+<tspan x="10" y="458">.md</tspan>
+
+<tspan x="10" y="474">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/REA\</tspan>
+<tspan x="10" y="490">DME.md</tspan>
+
+<tspan x="10" y="506">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/sas\</tspan>
+<tspan x="10" y="522">s.md</tspan>
+
+<tspan x="10" y="538">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/set\</tspan>
+<tspan x="10" y="554">tings.md</tspan>
+
+<tspan x="10" y="570">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/sty\</tspan>
+<tspan x="10" y="586">lus.md</tspan>
+
+<tspan x="10" y="602">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.github/\</tspan>
+<tspan x="10" y="618">CONTRIBUTING.md</tspan>
+
+<tspan x="10" y="634">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/_fu\</tspan>
+<tspan x="10" y="650">nctions.scss</tspan>
+
+<tspan x="10" y="666">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/_gr\</tspan>
+<tspan x="10" y="682">id.scss</tspan>
+
+<tspan x="10" y="698">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/ind\</tspan>
+<tspan x="10" y="714">ex.scss</tspan>
+
+<tspan x="10" y="730">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/_se\</tspan>
+<tspan x="10" y="746">ttings.scss</tspan>
+
+<tspan x="10" y="762">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/_fu\</tspan>
+<tspan x="10" y="778">nctions.styl</tspan>
+
+<tspan x="10" y="794">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/_gr\</tspan>
+<tspan x="10" y="810">id.styl</tspan>
+
+<tspan x="10" y="826">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/ind\</tspan>
+<tspan x="10" y="842">ex.styl</tspan>
+
+<tspan x="10" y="858">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/_se\</tspan>
+<tspan x="10" y="874">ttings.styl</tspan>
+
+<tspan x="10" y="890">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/int\</tspan>
+<tspan x="10" y="906">egrations/gulp.md</tspan>
+
+<tspan x="10" y="922">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/int\</tspan>
+<tspan x="10" y="938">egrations/node.md</tspan>
+
+<tspan x="10" y="954">apidocCreate - requiring /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet ...</tspan>
+
+<tspan x="10" y="970">apidocCreate - ... required /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet</tspan>
+
+<tspan x="10" y="986">created apidoc file /home/travis/build/npmdoc/node-npmdoc-jeet/tmp/build/apidoc.html</tspan>
+
+<tspan x="10" y="1002"></tspan>
+
+<tspan x="10" y="1018">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/package.\</tspan>
+<tspan x="10" y="1034">json</tspan>
+
+<tspan x="10" y="1050">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.editorc\</tspan>
+<tspan x="10" y="1066">onfig</tspan>
+
+<tspan x="10" y="1082">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.gitigno\</tspan>
+<tspan x="10" y="1098">re</tspan>
+
+<tspan x="10" y="1114">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/index.js</tspan>
+
+<tspan x="10" y="1130">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/jeet.scs\</tspan>
+<tspan x="10" y="1146">s</tspan>
+
+<tspan x="10" y="1162">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/jeet.sty\</tspan>
+<tspan x="10" y="1178">l</tspan>
+
+<tspan x="10" y="1194">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/LICENSE</tspan>
+
+<tspan x="10" y="1210">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/package.\</tspan>
+<tspan x="10" y="1226">json</tspan>
+
+<tspan x="10" y="1242">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/README.m\</tspan>
+<tspan x="10" y="1258">d</tspan>
+
+<tspan x="10" y="1274">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.travis.\</tspan>
+<tspan x="10" y="1290">yml</tspan>
+
+<tspan x="10" y="1306">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/api\</tspan>
+<tspan x="10" y="1322">.md</tspan>
+
+<tspan x="10" y="1338">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/REA\</tspan>
+<tspan x="10" y="1354">DME.md</tspan>
+
+<tspan x="10" y="1370">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/sas\</tspan>
+<tspan x="10" y="1386">s.md</tspan>
+
+<tspan x="10" y="1402">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/set\</tspan>
+<tspan x="10" y="1418">tings.md</tspan>
+
+<tspan x="10" y="1434">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/sty\</tspan>
+<tspan x="10" y="1450">lus.md</tspan>
+
+<tspan x="10" y="1466">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/.github/\</tspan>
+<tspan x="10" y="1482">CONTRIBUTING.md</tspan>
+
+<tspan x="10" y="1498">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/_fu\</tspan>
+<tspan x="10" y="1514">nctions.scss</tspan>
+
+<tspan x="10" y="1530">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/_gr\</tspan>
+<tspan x="10" y="1546">id.scss</tspan>
+
+<tspan x="10" y="1562">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/ind\</tspan>
+<tspan x="10" y="1578">ex.scss</tspan>
+
+<tspan x="10" y="1594">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/scss/_se\</tspan>
+<tspan x="10" y="1610">ttings.scss</tspan>
+
+<tspan x="10" y="1626">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/_fu\</tspan>
+<tspan x="10" y="1642">nctions.styl</tspan>
+
+<tspan x="10" y="1658">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/_gr\</tspan>
+<tspan x="10" y="1674">id.styl</tspan>
+
+<tspan x="10" y="1690">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/ind\</tspan>
+<tspan x="10" y="1706">ex.styl</tspan>
+
+<tspan x="10" y="1722">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/styl/_se\</tspan>
+<tspan x="10" y="1738">ttings.styl</tspan>
+
+<tspan x="10" y="1754">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/int\</tspan>
+<tspan x="10" y="1770">egrations/gulp.md</tspan>
+
+<tspan x="10" y="1786">apidocCreate - readExample /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet/docs/int\</tspan>
+<tspan x="10" y="1802">egrations/node.md</tspan>
+
+<tspan x="10" y="1818">apidocCreate - requiring /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet ...</tspan>
+
+<tspan x="10" y="1834">apidocCreate - ... required /home/travis/build/npmdoc/node-npmdoc-jeet/node_modules/jeet</tspan>
+
+<tspan x="10" y="1850">created customOrg file /home/travis/build/npmdoc/node-npmdoc-jeet/README.md</tspan>
+
+<tspan x="10" y="1866"></tspan>
+
+<tspan x="10" y="1882">(node:6424) DeprecationWarning: _linklist module is deprecated. Please use a userland alternativ\</tspan>
+<tspan x="10" y="1898">e.</tspan>
+
+<tspan x="10" y="1914">(node:6424) DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+
+<tspan x="10" y="1930">&gt; server listening on http-port 62394</tspan>
+
+<tspan x="10" y="1946">[node test-case 1 of 1 passed] - testCase_buildApp_default</tspan>
+
+<tspan x="10" y="1962"></tspan>
+
+<tspan x="10" y="1978">buildApp - merged test-report from file /home/travis/build/npmdoc/node-npmdoc-jeet/tmp/build/tes\</tspan>
+<tspan x="10" y="1994">t-report.json</tspan>
+
+<tspan x="10" y="2010"></tspan>
+
+<tspan x="10" y="2026">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="2042">| test-report - buildApidoc - node - linux v6.14.1 - 2018-04-13T12:22:12.620Z</tspan>
+
+<tspan x="10" y="2058">|   29121 ms            0 failed        1 passed      |</tspan>
+
+<tspan x="10" y="2074">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="2090">| test-report - buildApp - node - linux v6.14.1 - 2018-04-13T12:21:43.652Z</tspan>
+
+<tspan x="10" y="2106">|   26065 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="2122">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="2138">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="2154">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.13 Safari/537.36 - 2018-04-13T12:21:55.071Z</tspan>
+
+<tspan x="10" y="2170">|      75 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="2186">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="2202"></tspan>
+
+<tspan x="10" y="2218">created test-report file /home/travis/build/npmdoc/node-npmdoc-jeet/tmp/build/test-report.html</tspan>
+
+<tspan x="10" y="2234"></tspan>
+
+<tspan x="10" y="2250"></tspan>
+
+<tspan x="10" y="2266">buildApp - 0 failed tests</tspan>
+
+<tspan x="10" y="2282"></tspan>
+
+<tspan x="10" y="2298"></tspan>
+
+<tspan x="10" y="2314">[MODE_BUILD=buildApp] - 2018-04-13T12:22:43.272Z - EXIT_CODE - 0</tspan>
+
+</text>
+</svg>

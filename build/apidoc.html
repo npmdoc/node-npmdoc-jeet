@@ -27,6 +27,7 @@
     background: #eef;
     border: 1px solid;
     color: #777;
+    overflow-wrap: break-word;
     padding: 5px;
     white-space: pre-wrap;
 }
@@ -51,7 +52,7 @@
 
         href="https://jeet.gs"
 
-    >jeet (v7.1.0)</a>
+    >jeet (v7.2.0)</a>
 </h1>
 <h4>A simple Sass and Stylus grid system. Built for humans.</h4>
 <div class="apidocSectionDiv"><a
@@ -104,7 +105,7 @@
     </h2>
     <ul>
     <li>description and source-code<pre class="apidocCodePre">jeet = function (opts) {
-  var implicit = (opts &#x26;&#x26; opts.implicit == false) ? false : true;
+  var implicit = (opts &amp;&amp; opts.implicit == false) ? false : true;
 
   return function (style) {
     style.include(__dirname);
@@ -112,7 +113,7 @@
     if (implicit) {
       style.import(jeetPath);
     }
-  }
+  };
 }</pre></li>
     <li>example usage<pre class="apidocCodePre">n/a</pre></li>
     </ul>
