@@ -1,6 +1,6 @@
 # npmdoc-jeet
 
-#### api documentation for  [jeet (v7.1.0)](https://jeet.gs)  [![npm package](https://img.shields.io/npm/v/npmdoc-jeet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jeet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jeet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jeet)
+#### basic api documentation for  [jeet (7.2.0)](https://jeet.gs)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jeet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jeet)
 
 #### A simple Sass and Stylus grid system. Built for humans.
 
@@ -8,11 +8,11 @@
 
 - [https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-jeet/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-jeet/build/screenshot.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jeet/build/apidoc.html)
 
-![npmPackageListing](https://npmdoc.github.io/node-npmdoc-jeet/build/screenCapture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-jeet/build/screenshot.npmPackageListing.svg)
 
-![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-jeet/build/screenCapture.npmPackageDependencyTree.svg)
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-jeet/build/screenshot.npmPackageDependencyTree.svg)
 
 
 
@@ -48,10 +48,11 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "4aeaa0a939306b29607de8fcfa96967d9305a752",
-        "tarball": "https://registry.npmjs.org/jeet/-/jeet-7.1.0.tgz"
+        "integrity": "sha512-TcUBVeb/PlBmiZRgqx/rHewXkyhnBzRANjPi99frE7FQcbXvnzH74IelKhdPlP94eBh/rI0T67B04yGaldWzTw==",
+        "shasum": "2aa562a2dc1d74cc99527113f16a821e974e30ee",
+        "tarball": "https://registry.npmjs.org/jeet/-/jeet-7.2.0.tgz"
     },
-    "gitHead": "467145486c9a909e8ec73cd2017dbc636d7901fc",
+    "gitHead": "8baa4d35013f26261fdbaa78a931e97bab26056b",
     "homepage": "https://jeet.gs",
     "keywords": [
         "grid",
@@ -80,7 +81,7 @@
     "scripts": {
         "test:node": "node test/node-stylus/node"
     },
-    "version": "7.1.0",
+    "version": "2018.6.4",
     "bin": {}
 }
 ```
