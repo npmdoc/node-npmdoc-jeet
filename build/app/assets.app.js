@@ -33029,7 +33029,7 @@ local.stateInit({
             "npm_package_homepage": "https://github.com/npmdoc/node-npmdoc-jeet",
             "npm_package_name": "npmdoc-jeet",
             "npm_package_nameLib": "npmdoc_jeet",
-            "npm_package_version": "0.0.3"
+            "npm_package_version": "2018.6.4"
         }
     }
 });
